@@ -1,0 +1,3 @@
+[submodule "samples/aiml-inference"]
+	path = samples/aiml-inference
+	url = https://github.com/CLOUDCNTOP/aws-do-inference.git
