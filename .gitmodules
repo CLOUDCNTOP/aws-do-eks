@@ -1,9 +1,0 @@
-[submodule "do/inference"]
-	path = do/inference
-	url = https://github.com/TipTopBin/aws-do-inference.git
-[submodule "do/data"]
-	path = do/data
-	url = https://github.com/TipTopBin/data-on-eks.git
-[submodule "do/br-cache"]
-	path = do/br-cache
-	url = https://github.com/TipTopBin/bottlerocket-images-cache.git
